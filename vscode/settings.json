@@ -1,0 +1,34 @@
+{
+    "explorer.autoReveal": false,
+    "files.autoSave": "off",
+    "files.trimTrailingWhitespace": true,
+    "git.ignoreMissingGitWarning": true,
+    "php.suggest.basic": false,
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.rules": "@PSR1,@PSR2",
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.documentFormattingProvider": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.1,
+    "update.channel": "none",
+    "workbench.colorTheme": "Monokai",
+    "workbench.startupEditor": "none",
+    "macros": {
+        "saveAndFormat": [
+            "editor.action.formatDocument",
+            "workbench.action.files.save"
+        ]
+    },
+    "php-cs-fixer.lastDownload": 1630421869711,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "svn.enableProposedApi": "none",
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "editor.detectIndentation": false,
+    "workbench.editor.untitled.hint": "hidden",
+}
